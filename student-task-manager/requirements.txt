@@ -1,0 +1,2 @@
+tkcalendar>=1.6.1
+platformdirs>=3.0
